@@ -1,5 +1,14 @@
 # NLP-ML-training
-A series of training of deep neural networks on natural language processing.
+
+This is a series of training on deep learning in natural language processing (NLP). You will learn the mathematical theories of machine learning and optimization, design of neural network architectures, and most importantly, implementation of them in computer languages. This training will cover mainstream deep learning models for NLP from 2010 to 2016, including convolutional neural network, recurrent neural network (LSTM), and transformers (e.g., BERT).
+ 
+Prerequisite:
+1 Mathematics, including function, convex function; calculus, derivatives, partial
+derivatives
+2 Machine learning classifiers, optimization theory
+3 Programming skills such as C++, Java, Python, TensorFlow, Pytorch.
+![image](https://user-images.githubusercontent.com/99048338/193862468-7595a84a-37b7-48c7-9e86-696168be1dd7.png)
+
 
 Please read the following papers and try your best to figure out the algroithms:
 
